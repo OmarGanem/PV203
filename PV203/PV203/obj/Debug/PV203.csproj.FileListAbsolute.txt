@@ -1,0 +1,17 @@
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.csproj.AssemblyReference.cache
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.csproj.SuggestedBindingRedirects.cache
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.Properties.Resources.resources
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.csproj.GenerateResource.cache
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.csproj.CoreCompileInputs.cache
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\PV203.exe.config
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\PV203.exe
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\PV203.pdb
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\EntityFramework.dll
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\EntityFramework.xml
+C:\Users\SALA 4\source\repos\PV203\PV203\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.csproj.CopyComplete
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.exe
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.pdb
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.Migrations.initial.resources
+C:\Users\SALA 4\source\repos\PV203\PV203\obj\Debug\PV203.Migrations.Second.resources
